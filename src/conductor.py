@@ -1,6 +1,9 @@
 """This script will complete the entire process diagram.
 
+
 Execute this file by running 'python3 conductor.py' from the src/ directory.
+Students:
+        Atulya Kadur
 """
 
 # Python packages to import

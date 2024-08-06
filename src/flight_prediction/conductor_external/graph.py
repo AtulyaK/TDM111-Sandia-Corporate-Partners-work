@@ -10,6 +10,8 @@ def line_graph(output_file_name_graph, percent,percent_placement_dict):
         
     Returns:
         Nothing just writes a png to a file
+    Students:
+        Atulya Kadur
     """
     
     x = np.arange(len(percent))

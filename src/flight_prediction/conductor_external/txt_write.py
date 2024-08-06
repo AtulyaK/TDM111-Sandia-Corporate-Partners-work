@@ -19,6 +19,8 @@ def destination_write(path,destination,percent):
 
     Returns:
          None
+    Students:
+        Atulya Kadur
     """
     with open(path,"a") as file:
         file.write("\n\n\n\n\n")
