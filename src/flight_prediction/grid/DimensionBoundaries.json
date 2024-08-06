@@ -1,0 +1,14 @@
+{
+  "lon_min": -125.0011,
+  "lon_max": -66.9326,
+  "lon_step": 0.1,
+  "lat_min": 24.9493,
+  "lat_max": 49.5904,
+  "lat_step": 0.1,
+  "alt_min": -20000,
+  "alt_max": 40000,
+  "alt_step": 30000,
+  "heading_min": -22.5,
+  "heading_max": 337.5,
+  "heading_step": 45
+}
